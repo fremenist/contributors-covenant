@@ -47,7 +47,7 @@ a dick, then we might fall out.
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributors' Covenant][homepage], version 1.0,
-available at [https://www.github.com/fremenist/contributor_covenant][version]
+available at [https://www.github.com/fremenist/contributors_covenant][version]
 
 [homepage]: https://www.github.com/fremenist/contributor_covenant
-[version]: https://www.github.com/fremenist/contributor_covenant/version/1/0
+[version]: https://www.github.com/fremenist/contributors_covenant/version/1/0
